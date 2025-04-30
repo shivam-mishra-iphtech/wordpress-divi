@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/200x80?text=Your+Logo+Here" alt="WordPress Divi Logo" />
+  <img src="https://www.techwebers.com/wp-content/uploads/2022/12/DIVI-Builder.webp" alt="Divi Builder Logo" width="300"/>
 </p>
 
 <h1 align="center">🌟 WordPress - Divi Theme Project 🌟</h1>
@@ -14,39 +14,55 @@
 
 This project is a WordPress-based website created using the **Divi Theme Builder**, offering a clean, modern, and responsive design across all devices.
 
-### 🔗 Available Pages
+---
 
-- **🏠 Home** – A welcoming homepage with elegant layout and design.
-- **ℹ️ About Us** – Learn more about our company and mission.
-- **📞 Contact Us** – Users can send emails to the admin using a working contact form.
-- **🛠️ Services** – Explore the range of services we provide.
-- **💼 Career** – Browse current job openings and opportunities.
+## 📄 Pages Included
+
+- **🏠 Home** – A dynamic and welcoming landing page.
+- **ℹ️ About Us** – Details about your business or organization.
+- **🛠️ Services** – A section showcasing your offerings.
+- **📩 Contact Us** – Includes a fully functional contact form that sends emails to the site admin.
+- **💼 Career** – Lists open job opportunities and allows candidates to reach out.
+
+---
+
+## ✨ Features
+
+- Responsive layout using Divi Theme Builder
+- User-friendly design and navigation
+- Contact form integrated to send emails directly to the admin
+- Clean and SEO-friendly code structure
+- Easily customizable via WordPress admin panel
 
 ---
 
 ## 📧 Contact Form Functionality
 
-The **Contact Us** page features a built-in form that:
-- Captures user inquiries.
-- Sends the message directly to the site admin's email.
-- Ensures a smooth communication channel between users and the admin.
+Users can submit inquiries or feedback via the **Contact Us** page. The contact form is configured to send messages directly to the admin’s email address securely.
 
 ---
 
-## 🎨 Design Highlights
+## 🛠️ Built With
 
-- Built using **Divi Theme Builder** with drag-and-drop layout.
-- Fully **responsive** and optimized for performance.
-- Stylish sections, clear typography, and visually pleasing layout.
-- Easily customizable via Divi’s visual editor.
+- [WordPress](https://wordpress.org/)
+- [Divi Theme Builder](https://www.elegantthemes.com/gallery/divi/)
 
 ---
 
-## 🚀 Getting Started
+## 📸 Screenshot (optional)
 
-> **Note:** You must have a running WordPress installation and the Divi theme licensed and installed.
+_Add a screenshot of your homepage or any section here to visually represent your site._
 
-### Installation Steps:
-1. Download or clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/wordpress-divi.git
+---
+
+## 🚀 Get Started
+
+To install and run the project:
+
+1. Clone or download the WordPress theme.
+2. Upload it to your WordPress installation.
+3. Activate the theme and start customizing using the Divi Builder.
+
+---
+
+<p align="center">Made with ❤️ using Divi</p>
