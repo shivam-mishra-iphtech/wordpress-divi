@@ -79,10 +79,7 @@ The contact form:
 
 2. **Setup**:
    ```bash
-   # Clone the theme files
-   git clone https://github.com/shivam-mishra-iphtech/wordpress-divi/tree/main/wp-content/themes/Divi
-   
-   # Upload to wp-content/themes/
+          https://github.com/shivam-mishra-iphtech/wordpress-divi/tree/main/wp-content/themes/Divi
    ```
 
 3. **Activate** the theme in WordPress admin
