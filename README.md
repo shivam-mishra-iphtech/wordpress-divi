@@ -80,7 +80,7 @@ The contact form:
 2. **Setup**:
    ```bash
    # Clone the theme files
-   git clone https://github.com/yourusername/divi-project.git
+   git clone https://github.com/shivam-mishra-iphtech/wordpress-divi.git
    
    # Upload to wp-content/themes/
    ```
@@ -98,7 +98,6 @@ Contributions welcome! Please:
 ---
 
 
----
 
 <p align="center">
   Made with ❤️ using Divi | 
