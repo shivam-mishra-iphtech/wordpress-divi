@@ -97,14 +97,12 @@ Contributions welcome! Please:
 
 ---
 
-## 📜 License
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ---
 
 <p align="center">
   Made with ❤️ using Divi | 
-  <a href="https://github.com/yourusername">@yourusername</a>
+  <a href="[https://github.com/yourusername](https://github.com/shivam-mishra-iphtech/wordpress-divi.git)">@shivam-mishra-iphtech</a>
 </p>
 
 
