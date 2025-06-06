@@ -67,17 +67,20 @@ The contact form:
   </tr>
   <tr>
     <td>
-      <div style="width:300px; height:200px; overflow:auto;">
-        <img src="https://snipboard.io/dRBXsD.jpg" style="max-width:none;" />
-      </div>
+      <a href="https://snipboard.io/dRBXsD.jpg" target="_blank">
+        <img src="https://snipboard.io/dRBXsD.jpg" width="500" height="400" style="object-fit: contain; display: block;" />
+      </a>
     </td>
     <td>
-      <div style="width:150px; height:300px; overflow:auto;">
-        <img src="screenshot-mobile.jpg" style="max-width:none;" />
-      </div>
+      <a href="screenshot-mobile.jpg" target="_blank">
+        <img src="screenshot-mobile.jpg" width="700" height="500" style="object-fit: contain; display: block;" />
+      </a>
     </td>
   </tr>
 </table>
+
+
+
 
 
 ## 🚀 Installation Guide
