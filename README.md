@@ -61,7 +61,7 @@ The contact form:
 ## 📸 Screenshots
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop](screenshot-desktop.jpg) | ![Mobile](screenshot-mobile.jpg) |
+| !(https://snipboard.io/dRBXsD.jpg)) | ![Mobile](screenshot-mobile.jpg) |
 
 *(Add actual screenshot paths)*
 
