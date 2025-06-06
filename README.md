@@ -20,11 +20,6 @@ A modern WordPress website leveraging Divi's drag-and-drop builder to deliver:
 
 ---
 
-## 🖥️ Live Demo
-[![View Demo](https://img.shields.io/badge/View-Demo-green?style=for-the-badge)](https://yourdomain.com)  
-*(Replace with your actual demo link)*
-
----
 
 ## 📄 Key Pages
 | Page | Features |
