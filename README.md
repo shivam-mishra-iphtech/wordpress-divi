@@ -60,9 +60,24 @@ The contact form:
 
 ## 📸 Screenshots
 
-| Desktop | Mobile |
-|--------|--------|
-| ![Desktop](https://snipboard.io/dRBXsD.jpg) | ![Mobile](screenshot-mobile.jpg) |
+<table>
+  <tr>
+    <th>Desktop</th>
+    <th>Mobile</th>
+  </tr>
+  <tr>
+    <td>
+      <div style="width:300px; height:200px; overflow:auto;">
+        <img src="https://snipboard.io/dRBXsD.jpg" style="max-width:none;" />
+      </div>
+    </td>
+    <td>
+      <div style="width:150px; height:300px; overflow:auto;">
+        <img src="screenshot-mobile.jpg" style="max-width:none;" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 ## 🚀 Installation Guide
