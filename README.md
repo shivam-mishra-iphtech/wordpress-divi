@@ -63,35 +63,40 @@ The contact form:
 <table>
   <tr>
     <th>Home</th>
-    <th>About us</th>
-     <th>Contact us</th>
-     <th>Services</th>
-     <th>Career</th>
+    <th>About Us</th>
+    <th>Contact Us</th>
+    <th>Services</th>
+    <th>Career</th>
   </tr>
   <tr>
-    <td>
-        <img src="https://snipboard.io/dRBXsD.jpg" width="600" height="400" style="object-fit: contain; display: block;" />
-       <a href="https://snipboard.io/dRBXsD.jpg" target="_blank">View full Image</a>
+    <td align="center">
+      <img src="https://snipboard.io/dRBXsD.jpg" width="600" height="400" style="object-fit: contain; display: block;" />
+      <br />
+      <a href="https://snipboard.io/dRBXsD.jpg" target="_blank" style="text-decoration: underline; color: #0366d6;">View Full Image</a>
     </td>
-     <td>
-        <img src="https://snipboard.io/dRBXsD.jpg" width="600" height="400" style="object-fit: contain; display: block;" />
-       <a href="https://snipboard.io/dRBXsD.jpg" target="_blank">View full Image</a>
+    <td align="center">
+      <img src="https://snipboard.io/E3pSwC.jpg" width="600" height="400" style="object-fit: contain; display: block;" />
+      <br />
+      <a href="https://snipboard.io/E3pSwC.jpg" target="_blank" style="text-decoration: underline; color: #0366d6;">View Full Image</a>
     </td>
-     <td>
-        <img src="https://snipboard.io/dRBXsD.jpg" width="600" height="400" style="object-fit: contain; display: block;" />
-       <a href="https://snipboard.io/dRBXsD.jpg" target="_blank">View full Image</a>
+    <td align="center">
+      <img src="https://snipboard.io/4OFoLu.jpg" width="600" height="400" style="object-fit: contain; display: block;" />
+      <br />
+      <a href="https://snipboard.io/4OFoLu.jpg" target="_blank" style="text-decoration: underline; color: #0366d6;">View Full Image</a>
     </td>
-     <td>
-        <img src="https://snipboard.io/dRBXsD.jpg" width="600" height="400" style="object-fit: contain; display: block;" />
-       <a href="https://snipboard.io/dRBXsD.jpg" target="_blank">View full Image</a>
+    <td align="center">
+      <img src="https://snipboard.io/HlXvtQ.jpg" width="600" height="400" style="object-fit: contain; display: block;" />
+      <br />
+      <a href="https://snipboard.io/HlXvtQ.jpg" target="_blank" style="text-decoration: underline; color: #0366d6;">View Full Image</a>
     </td>
-     <td>
-        <img src="https://snipboard.io/dRBXsD.jpg" width="600" height="400" style="object-fit: contain; display: block;" />
-       <a href="https://snipboard.io/dRBXsD.jpg" target="_blank">View full Image</a>
+    <td align="center">
+      <img src="https://snipboard.io/nDPfSY.jpg" width="600" height="400" style="object-fit: contain; display: block;" />
+      <br />
+      <a href="https://snipboard.io/nDPfSY.jpg" target="_blank" style="text-decoration: underline; color: #0366d6;">View Full Image</a>
     </td>
-    
   </tr>
 </table>
+
 
 
 
