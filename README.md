@@ -116,14 +116,6 @@ The contact form:
 
 ---
 
-## 🤝 Contribution
-Contributions welcome! Please:
-1. Fork the project
-2. Create your feature branch
-3. Submit a pull request
-
----
-
 
 
 <p align="center">
