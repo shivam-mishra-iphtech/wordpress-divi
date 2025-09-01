@@ -20,11 +20,6 @@ A modern WordPress website leveraging Divi's drag-and-drop builder to deliver:
 
 ---
 
-## 🖥️ Live Demo
-[![View Demo](https://img.shields.io/badge/View-Demo-green?style=for-the-badge)](https://yourdomain.com)  
-*(Replace with your actual demo link)*
-
----
 
 ## 📄 Key Pages
 | Page | Features |
@@ -64,13 +59,48 @@ The contact form:
 ---
 
 ## 📸 Screenshots
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](screenshot-desktop.jpg) | ![Mobile](screenshot-mobile.jpg) |
 
-*(Add actual screenshot paths)*
+<table>
+  <tr>
+    <th>Home</th>
+    <th>About Us</th>
+    <th>Contact Us</th>
+    <th>Services</th>
+    <th>Career</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://snipboard.io/dRBXsD.jpg" width="600" height="400" style="object-fit: contain; display: block;" />
+      <br />
+      <a href="https://snipboard.io/dRBXsD.jpg" target="_blank" style="text-decoration: underline; color: #0366d6;">View Full Image</a>
+    </td>
+    <td align="center">
+      <img src="https://snipboard.io/E3pSwC.jpg" width="600" height="400" style="object-fit: contain; display: block;" />
+      <br />
+      <a href="https://snipboard.io/E3pSwC.jpg" target="_blank" style="text-decoration: underline; color: #0366d6;">View Full Image</a>
+    </td>
+    <td align="center">
+      <img src="https://snipboard.io/4OFoLu.jpg" width="600" height="400" style="object-fit: contain; display: block;" />
+      <br />
+      <a href="https://snipboard.io/4OFoLu.jpg" target="_blank" style="text-decoration: underline; color: #0366d6;">View Full Image</a>
+    </td>
+    <td align="center">
+      <img src="https://snipboard.io/HlXvtQ.jpg" width="600" height="400" style="object-fit: contain; display: block;" />
+      <br />
+      <a href="https://snipboard.io/HlXvtQ.jpg" target="_blank" style="text-decoration: underline; color: #0366d6;">View Full Image</a>
+    </td>
+    <td align="center">
+      <img src="https://snipboard.io/nDPfSY.jpg" width="600" height="400" style="object-fit: contain; display: block;" />
+      <br />
+      <a href="https://snipboard.io/nDPfSY.jpg" target="_blank" style="text-decoration: underline; color: #0366d6;">View Full Image</a>
+    </td>
+  </tr>
+</table>
 
----
+
+
+
+
 
 ## 🚀 Installation Guide
 1. **Prerequisites**:
@@ -83,14 +113,6 @@ The contact form:
    ```
 
 3. **Activate** the theme in WordPress admin
-
----
-
-## 🤝 Contribution
-Contributions welcome! Please:
-1. Fork the project
-2. Create your feature branch
-3. Submit a pull request
 
 ---
 
