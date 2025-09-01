@@ -1,0 +1,32 @@
+/* Mega Menu Container */
+.mega-menu-container {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+    padding: 20px;
+    display: none;
+    z-index: 999;
+}
+
+/* Columns Layout */
+.mega-menu-container.columns-2 .mega-menu > li { width: 50%; }
+.mega-menu-container.columns-3 .mega-menu > li { width: 33.33%; }
+.mega-menu-container.columns-4 .mega-menu > li { width: 25%; }
+
+/* Show on Hover */
+.menu-item-has-children:hover .mega-menu-container {
+    display: block;
+}
+
+/* Mobile Styles */
+@media (max-width: 767px) {
+    .mega-menu-container {
+        position: static;
+        width: 100%;
+    }
+    .mega-menu-container .mega-menu > li {
+        width: 100% !important;
+    }
+}
